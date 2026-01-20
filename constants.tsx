@@ -440,7 +440,7 @@ const Slide5: React.FC = () => (
 const Slide6: React.FC = () => {
   const [activeTab, setActiveTab] = useState(0);
   const divisions = [
-    { title: "Preparación", ref: "1:1–4:11", desc: "Genealogía, nacimiento y preparación del Rey (Bautismo y Tentación).", img: "https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/f0b30cbb-ba85-4b73-914e-cdaf97a3811b_rw_1920.png" },
+    { title: "Preparación", ref: "1:1–4:11", desc: "Genealogía, nacimiento y preparación del Rey (Bautismo y Tentación).", img: "https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/7c2b4bb6-c34e-4431-8a44-f71dd7b96021_rw_1920.png?h=c172ad2c2fd3ccd3e1b2dd886fa4d44d" },
     { title: "Principios", ref: "5:1–7:29", desc: "El Sermón del Monte. Las leyes y ética del Reino de los Cielos.", img: "https://desdelafe.mx/wp-content/uploads/2020/02/cultura-biblica.jpg" },
     { title: "Autenticidad", ref: "8:1–9:38", desc: "Milagros que demuestran autoridad sobre la enfermedad, naturaleza y demonios.", img: "https://i.pinimg.com/736x/be/1e/97/be1e9786c8768ca5979fc1956e25b5e3.jpg" },
     { title: "Programa", ref: "10:1–16:28", desc: "Jesús envía a sus discípulos. Parábolas del Reino y anuncio de muerte.", img: "https://cms-imgp.jw-cdn.org/img/p/1102009472/univ/art/1102009472_univ_lsr_lg.jpg" },
